@@ -1,2 +1,3 @@
 # theta
-Tiny web framework
+
+Tiny web framework built with Typescript
